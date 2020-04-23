@@ -1,0 +1,37 @@
+body {
+	body 
+  background-image: url('k.jpg');
+
+}
+#menu ul{
+    list-style:none;
+}
+
+#menu ul li{
+    background-color:cornflowerblue;
+    border:solid 1px white;
+    width:120px;
+    height:35px;
+    text-align:center;
+    line-height:35px;
+    float:left;
+} 
+
+#menu ul li a{
+    text-decoration:none;
+    color:#ffffff;
+    display:block;
+}
+
+#menu ul li a:hover{
+    background-color:#ff6a00;
+    color:#ffffff
+}
+
+about.aspx{
+    background-color:#ffd800
+    Background-.
+}
+#menu ul li:hover > ul {
+    display:block;
+}
